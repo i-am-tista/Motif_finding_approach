@@ -17,8 +17,10 @@ Backtracking for Alignment: Direction matrix is used to reconstruct all optimal 
 
 ## **Complexity**
 
-### Time Complexity (T(n)) ≈ O(n × m)
+### Time Complexity 
+(T(n)) ≈ O(n × m)
 
-Space Complexity (S(n)) ≈ O(2 × (m+2)) for scoreback + O((n+2) × (m+2)) for direction matrix
+### Space Complexity 
+(S(n)) ≈ O(2 × (m+2)) for scoreback + O((n+2) × (m+2)) for direction matrix
 n = length of sequence 1
 m = length of sequence 2
